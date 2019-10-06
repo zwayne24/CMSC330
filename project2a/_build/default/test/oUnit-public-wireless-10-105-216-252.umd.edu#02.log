@@ -1,0 +1,30 @@
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 I: Start test public:1:head_divisor.
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 I: Test public:1:head_divisor is successful.
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 I: End test public:1:head_divisor.
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 I: Start test public:3:max_first_three.
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 I: Test public:3:max_first_three is successful.
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 I: End test public:3:max_first_three.
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 I: Start test public:5:sum_odd.
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 I: Test public:5:sum_odd is successful.
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 I: End test public:5:sum_odd.
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 I: Start test public:6:is_even_sum.
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 I: Test public:6:is_even_sum is successful.
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 I: End test public:6:is_even_sum.
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 I: Start test public:8:dup_list.
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 I: Test public:8:dup_list is successful.
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 I: End test public:8:dup_list.
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 I: Start test public:10:subset.
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 I: Test public:10:subset is successful.
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 I: End test public:10:subset.
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 I: Start test public:12:union.
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 I: Test public:12:union is successful.
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 I: End test public:12:union.
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 I: Start test public:14:cat.
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 E: Test public:14:cat has failed.
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 E: cat (1)
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 E: not equal in test public:14:cat.
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 E: Raised at file "src/oUnitAssert.ml", line 45, characters 2-27
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 E: Called from file "test/public.ml", line 79, characters 2-105
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 E: 
+2019-02-19T18:36:56+00:00 wireless-10-105-216-252.umd.edu#02 I: End test public:14:cat.
