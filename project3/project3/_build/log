@@ -1,0 +1,16 @@
+# dune runtest -f
+# OCAMLPARAM: unset
+$ /usr/bin/getconf _NPROCESSORS_ONLN > /var/folders/x_/_wnhfq5d6zbf62jm5wcpptsc0000gn/T/dunef47b53.output 2> /dev/null
+$ /Users/zachwayne/.opam/4.04.0/bin/ocamlc.opt -config > /var/folders/x_/_wnhfq5d6zbf62jm5wcpptsc0000gn/T/dune412b2a.output
+$ (cd _build/default && /Users/zachwayne/.opam/4.04.0/bin/ocamlc.opt -w -40 -g -bin-annot -I src/.p3.objs -I src/.p3.objs/.private -I /Users/zachwayne/cmsc330/project3/dep/parser -no-alias-deps -open P3 -o src/.p3.objs/p3__Eval.cmi -c -intf src/eval.mli)
+> File "src/eval.mli", line 1:
+> Error: /Users/zachwayne/cmsc330/project3/dep/parser/smallCTypes.cmi
+> is not a compiled interface for this version of OCaml.
+> It seems to be for a newer version of OCaml.
+[2]
+$ (cd _build/default && /Users/zachwayne/.opam/4.04.0/bin/ocamlc.opt -w -40 -g -bin-annot -I src/.p3.objs -I src/.p3.objs/.private -I /Users/zachwayne/cmsc330/project3/dep/parser -no-alias-deps -open P3 -o src/.p3.objs/p3__EvalUtils.cmo -c -impl src/evalUtils.ml)
+> File "src/evalUtils.ml", line 1:
+> Error: /Users/zachwayne/cmsc330/project3/dep/parser/smallCTypes.cmi
+> is not a compiled interface for this version of OCaml.
+> It seems to be for a newer version of OCaml.
+[2]
