@@ -1,0 +1,39 @@
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Start test public:0:assign1.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Test public:0:assign1 is successful.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: End test public:0:assign1.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Start test public:2:define1.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Test public:2:define1 is successful.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: End test public:2:define1.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Start test public:4:exp1.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Test public:4:exp1 is successful.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: End test public:4:exp1.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Start test public:6:greater.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Test public:6:greater is successful.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: End test public:6:greater.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Start test public:7:if.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Test public:7:if is successful.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: End test public:7:if.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Start test public:9:if_else_while.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Test public:9:if_else_while is successful.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: End test public:9:if_else_while.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Start test public:11:main.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Test public:11:main is successful.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: End test public:11:main.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Start test public:13:nested_ifelse.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Test public:13:nested_ifelse is successful.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: End test public:13:nested_ifelse.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Start test public:15:print.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Test public:15:print is successful.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: End test public:15:print.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Start test public:17:test2.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Test public:17:test2 is successful.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: End test public:17:test2.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Start test public:18:test3.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Test public:18:test3 is successful.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: End test public:18:test3.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Start test public:20:test_assoc1.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Test public:20:test_assoc1 is successful.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: End test public:20:test_assoc1.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Start test public:22:do_while.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: Test public:22:do_while is successful.
+2019-04-08T20:35:22+00:00 wireless-10-105-208-128.umd.edu#01 I: End test public:22:do_while.
